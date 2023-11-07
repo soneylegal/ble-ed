@@ -1,0 +1,12 @@
+h1{
+    color: rgb(255, 0, 0);
+}
+p{
+    color: green;
+}
+.claro {
+    background-color: white;
+}
+.escuro {
+    background-color: black;
+}
